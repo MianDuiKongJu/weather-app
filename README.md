@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the Weather App created by Wayne Zhang. Utilizing OpenWeatherApp APIS to get weather data of major cities in Australia.
+
+Responsive Design using elastic flex box css. State store using class component. Asynchronous solved by async function,await {}, and using ternary operator to judge if Loading stats is done.
+
+In future update:
+  1. May swapping static weather icons with dynamic cartons effects.
+  2. Adding loading dynamic.
+  3. Creating Search bar for users could search weather of their own city.
+
 ## Available Scripts
 
 In the project directory, you can run:

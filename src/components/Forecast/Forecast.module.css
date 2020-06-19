@@ -1,0 +1,9 @@
+.forecast {
+  display: flex;
+  padding: 0 56px;
+  align-items: center;
+}
+
+.forecast > * {
+  margin: 0 8px;
+}
